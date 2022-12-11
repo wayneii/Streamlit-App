@@ -8,13 +8,13 @@ st.write("Your age is: ", age)
 
 
 #Gender
-gender = st.radio("What is your gender?", ('Male', 'Female'))
+#gender = st.radio("What is your gender?", ('Male', 'Female'))
 
 #Married
-married = st.radio("Are you married?", ('Yes', 'No'))
+#married = st.radio("Are you married?", ('Yes', 'No'))
 
 #Parent
-parent = st.radio("Are you a parent?", ('Yes', 'No'))
+#parent = st.radio("Are you a parent?", ('Yes', 'No'))
 
 #Highest Level of Eduction
 income = st.selectbox("Highest Level of Education", 
