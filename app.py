@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.markdown("#Welcome to my streamlit... update 2")
+st.title("Let's see if I can predict if you used LinkedIn")
