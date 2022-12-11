@@ -1,3 +1,20 @@
 import streamlit as st
 
 st.title("Let's see if I can predict if you used LinkedIn")
+
+#Age
+ num1 = st.slider(label="Enter you age", 
+           min_value=1,
+           max_value=98,
+           value=7)
+
+
+#Gender
+
+#Married
+
+#Parent
+
+#Highest Level of Eduction
+
+#Income
